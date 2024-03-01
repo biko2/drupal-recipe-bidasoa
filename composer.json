@@ -8,7 +8,9 @@
         "biko2/bidasoa_static_export_postprocessor": "*",
         "biko2/bidasoa_sprite_sheets": "*",
         "drupal/hook_event_dispatcher": "^4.0@RC",
-        "drupal/config_ignore":"^3.1"
+        "drupal/config_ignore":"^3.1",
+        "biko2/drupal-recipe-base-editorial": "*",
+        "biko2/drupal-recipe-static-suite": "*"
     },
     "license": "GPL-2.0-or-later"
 }
