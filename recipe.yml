@@ -1,0 +1,13 @@
+name: 'Bidasoa'
+description: 'Bidasoa'
+type: 'Site'
+recipes:
+  - drupal-recipe-base-editorial
+  - drupal-recipe-static-suite
+install:
+  - bidasoa_admin
+  - bidasoa_keyvalue
+  - bidasoa_static_export_postprocessor
+  - config_ignore
+  - core_event_dispatcher
+  - hook_event_dispatcher

@@ -1,0 +1,6 @@
+dependencies: {  }
+id: site_configurations
+label: 'Site configurations'
+menu:
+  description: 'Site configurations'
+  menu_parent: 'admin:bidasoa_admin.admin'
